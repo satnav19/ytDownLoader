@@ -1,5 +1,5 @@
  Welcome to my youtube downloader !
- I’ve added a shebang to the top of the .py file , so if you aloow it to execute    using chmod +x downloader.py , you can run it directly.
+ I’ve added a shebang to the top of the .py file , so if you allow it to execute using chmod +x downloader.py , you can run it directly.
  All required Python libraries are in requirements.txt , but not all of those are      needed :) 
  If you are trying to download a single video,
  run the script with the first argument being video ,
