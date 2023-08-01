@@ -8,7 +8,8 @@ To use as a script, use `chmod +x downloader.py`
 
 ## Usage
 `./downloader.py [video|audio|tracklist|playlist] [video/playlist link] `
-Optional: `[Number of vids to be downloaded]`
+
+An optional third argument is `[Number of vids to be downloaded]`
 
 If the third argument isn't provided, all videos in the given playlist will be downloaded.
 To display this message, use `-h` or `-help`
